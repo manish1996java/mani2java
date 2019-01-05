@@ -1,12 +1,12 @@
 {"products":[{"id":1001,"name":"Samsung","price":15000,"url":"http://c2c.sulekhalive.com/lcproducts/mobiles/images/samsung/album/large/samsung-z3(2).jpg"},
-	     {"id":1002,"name":"MI","price":7000,"url":"http://c2c.sulekhalive.com/lcproducts/mobiles/images/samsung/album/large/samsung-z3(2).jpg"},
-	     {"id":1003,"name":"lenovo","price":40000,"url":"http://c2c.sulekhalive.com/lcproducts/mobiles/images/samsung/album/large/samsung-z3(2).jpg"},
-	     {"id":1004,"name":"Apple","price":30000,"url":"http://c2c.sulekhalive.com/lcproducts/mobiles/images/samsung/album/large/samsung-z3(2).jpg"},
-	     {"id":1005,"name":"Moto","price":20000,"url":"http://c2c.sulekhalive.com/lcproducts/mobiles/images/samsung/album/large/samsung-z3(2).jpg"},
-	     {"id":1006,"name":"Spice","price":120000,"url":"http://c2c.sulekhalive.com/lcproducts/mobiles/images/samsung/album/large/samsung-z3(2).jpg"},
+	     {"id":1002,"name":"MI","price":7000,"url":"https://images-na.ssl-images-amazon.com/images/I/41Irsvy7E1L.jpg"},
+	     {"id":1003,"name":"lenovo","price":40000,"url":"https://india.to/products/static/nwprd-model/lenovo-k8-note-64gb-7843.jpg"},
+	     {"id":1004,"name":"Apple","price":30000,"url":"https://i-cdn.phonearena.com/images/phones/37989-xlarge/Apple-iPhone-5-4ad.jpg"},
+	     {"id":1005,"name":"Moto","price":20000,"url":"https://i.gadgets360cdn.com/products/large/1534396088_635_moto_p30.jpg"},
+	     {"id":1006,"name":"Spice","price":120000,"url":"https://cdn.ndtv.com/tech/images/gadgets/spice_mi_549_homeshop18.jpg"},
 	     {"id":1007,"name":"Nokia","price":25000,"url":"https://images.ctfassets.net/wcfotm6rrl7u/5T9xDlapPycAAYCQooUKm2/1d9599df11ea3fd4e2450bece5c8af6a/nokia_6_1_Plus-ROW-Recommended.png?w=230&h=230&fit=pad&bg=rgb:fff"},
-	     {"id":1008,"name":"vodaphone","price":4000,"url":"http://c2c.sulekhalive.com/lcproducts/mobiles/images/samsung/album/large/samsung-z3(2).jpg"},
-	     {"id":1009,"name":"Iball","price":8000,"url":"http://c2c.sulekhalive.com/lcproducts/mobiles/images/samsung/album/large/samsung-z3(2).jpg"},
-	     {"id":1010,"name":"LG","price":2000,"url":"http://c2c.sulekhalive.com/lcproducts/mobiles/images/samsung/album/large/samsung-z3(2).jpg"},
-	     {"id":1011,"name":"Oppo","price":14000,"url":"http://c2c.sulekhalive.com/lcproducts/mobiles/images/samsung/album/large/samsung-z3(2).jpg"}
+	     {"id":1008,"name":"vodaphone","price":4000,"url":"https://media.4rgos.it/i/Argos/5533101_R_Z001A?$Web$&$DefaultPDP570$"},
+	     {"id":1009,"name":"Iball","price":8000,"url":"https://st1.bgr.in/wp-content/uploads/2016/07/iball-andi-5l-rider-launched.jpg"},
+	     {"id":1010,"name":"LG","price":2000,"url":"https://www.lg.com/us/images/MC/features/350x350_TP260_low-cost.png"},
+	     {"id":1011,"name":"Oppo","price":14000,"url":"https://drop.ndtv.com/TECH/product_database/images/1126201611239PM_635_oppo_a57_gold.jpeg"}
 ]}
